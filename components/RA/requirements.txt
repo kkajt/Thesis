@@ -1,0 +1,7 @@
+cryptography==2.8
+asn1crypto==1.2.0
+csrbuilder==0.10.1
+components==0.0.6
+pycrypto==2.6.1
+pycryptodomex==3.9.4
+pyOpenSSL==19.1.0
